@@ -1,0 +1,8 @@
+C:\ASP Net Core\Acumulador_For\Acumulador_For\bin\Debug\Acumulador_For.exe.config
+C:\ASP Net Core\Acumulador_For\Acumulador_For\bin\Debug\Acumulador_For.exe
+C:\ASP Net Core\Acumulador_For\Acumulador_For\bin\Debug\Acumulador_For.pdb
+C:\ASP Net Core\Acumulador_For\Acumulador_For\obj\Debug\Acumulador_For.csproj.AssemblyReference.cache
+C:\ASP Net Core\Acumulador_For\Acumulador_For\obj\Debug\Acumulador_For.csproj.SuggestedBindingRedirects.cache
+C:\ASP Net Core\Acumulador_For\Acumulador_For\obj\Debug\Acumulador_For.csproj.CoreCompileInputs.cache
+C:\ASP Net Core\Acumulador_For\Acumulador_For\obj\Debug\Acumulador_For.exe
+C:\ASP Net Core\Acumulador_For\Acumulador_For\obj\Debug\Acumulador_For.pdb

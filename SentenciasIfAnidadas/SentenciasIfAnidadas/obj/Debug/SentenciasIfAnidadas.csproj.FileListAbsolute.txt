@@ -1,0 +1,8 @@
+C:\ASP Net Core\SentenciasIfAnidadas\SentenciasIfAnidadas\bin\Debug\SentenciasIfAnidadas.exe.config
+C:\ASP Net Core\SentenciasIfAnidadas\SentenciasIfAnidadas\bin\Debug\SentenciasIfAnidadas.exe
+C:\ASP Net Core\SentenciasIfAnidadas\SentenciasIfAnidadas\bin\Debug\SentenciasIfAnidadas.pdb
+C:\ASP Net Core\SentenciasIfAnidadas\SentenciasIfAnidadas\obj\Debug\SentenciasIfAnidadas.csproj.AssemblyReference.cache
+C:\ASP Net Core\SentenciasIfAnidadas\SentenciasIfAnidadas\obj\Debug\SentenciasIfAnidadas.csproj.SuggestedBindingRedirects.cache
+C:\ASP Net Core\SentenciasIfAnidadas\SentenciasIfAnidadas\obj\Debug\SentenciasIfAnidadas.csproj.CoreCompileInputs.cache
+C:\ASP Net Core\SentenciasIfAnidadas\SentenciasIfAnidadas\obj\Debug\SentenciasIfAnidadas.exe
+C:\ASP Net Core\SentenciasIfAnidadas\SentenciasIfAnidadas\obj\Debug\SentenciasIfAnidadas.pdb

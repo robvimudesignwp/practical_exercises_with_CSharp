@@ -1,0 +1,8 @@
+C:\ASP Net Core\InstruccionSeleccionIf\InstruccionSeleccionIf\bin\Debug\InstruccionSeleccionIf.exe.config
+C:\ASP Net Core\InstruccionSeleccionIf\InstruccionSeleccionIf\bin\Debug\InstruccionSeleccionIf.exe
+C:\ASP Net Core\InstruccionSeleccionIf\InstruccionSeleccionIf\bin\Debug\InstruccionSeleccionIf.pdb
+C:\ASP Net Core\InstruccionSeleccionIf\InstruccionSeleccionIf\obj\Debug\InstruccionSeleccionIf.csproj.AssemblyReference.cache
+C:\ASP Net Core\InstruccionSeleccionIf\InstruccionSeleccionIf\obj\Debug\InstruccionSeleccionIf.csproj.SuggestedBindingRedirects.cache
+C:\ASP Net Core\InstruccionSeleccionIf\InstruccionSeleccionIf\obj\Debug\InstruccionSeleccionIf.csproj.CoreCompileInputs.cache
+C:\ASP Net Core\InstruccionSeleccionIf\InstruccionSeleccionIf\obj\Debug\InstruccionSeleccionIf.exe
+C:\ASP Net Core\InstruccionSeleccionIf\InstruccionSeleccionIf\obj\Debug\InstruccionSeleccionIf.pdb

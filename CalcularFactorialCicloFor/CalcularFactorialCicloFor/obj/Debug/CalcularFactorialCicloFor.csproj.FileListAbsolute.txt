@@ -1,0 +1,8 @@
+C:\ASP Net Core\CalcularFactorialCicloFor\CalcularFactorialCicloFor\bin\Debug\CalcularFactorialCicloFor.exe.config
+C:\ASP Net Core\CalcularFactorialCicloFor\CalcularFactorialCicloFor\bin\Debug\CalcularFactorialCicloFor.exe
+C:\ASP Net Core\CalcularFactorialCicloFor\CalcularFactorialCicloFor\bin\Debug\CalcularFactorialCicloFor.pdb
+C:\ASP Net Core\CalcularFactorialCicloFor\CalcularFactorialCicloFor\obj\Debug\CalcularFactorialCicloFor.csproj.AssemblyReference.cache
+C:\ASP Net Core\CalcularFactorialCicloFor\CalcularFactorialCicloFor\obj\Debug\CalcularFactorialCicloFor.csproj.SuggestedBindingRedirects.cache
+C:\ASP Net Core\CalcularFactorialCicloFor\CalcularFactorialCicloFor\obj\Debug\CalcularFactorialCicloFor.csproj.CoreCompileInputs.cache
+C:\ASP Net Core\CalcularFactorialCicloFor\CalcularFactorialCicloFor\obj\Debug\CalcularFactorialCicloFor.exe
+C:\ASP Net Core\CalcularFactorialCicloFor\CalcularFactorialCicloFor\obj\Debug\CalcularFactorialCicloFor.pdb

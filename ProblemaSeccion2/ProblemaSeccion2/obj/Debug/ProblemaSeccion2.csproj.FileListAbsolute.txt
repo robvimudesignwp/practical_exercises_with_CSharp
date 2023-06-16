@@ -1,0 +1,8 @@
+C:\ASP Net Core\ProblemaSeccion2\ProblemaSeccion2\bin\Debug\ProblemaSeccion2.exe.config
+C:\ASP Net Core\ProblemaSeccion2\ProblemaSeccion2\bin\Debug\ProblemaSeccion2.exe
+C:\ASP Net Core\ProblemaSeccion2\ProblemaSeccion2\bin\Debug\ProblemaSeccion2.pdb
+C:\ASP Net Core\ProblemaSeccion2\ProblemaSeccion2\obj\Debug\ProblemaSeccion2.csproj.AssemblyReference.cache
+C:\ASP Net Core\ProblemaSeccion2\ProblemaSeccion2\obj\Debug\ProblemaSeccion2.csproj.SuggestedBindingRedirects.cache
+C:\ASP Net Core\ProblemaSeccion2\ProblemaSeccion2\obj\Debug\ProblemaSeccion2.csproj.CoreCompileInputs.cache
+C:\ASP Net Core\ProblemaSeccion2\ProblemaSeccion2\obj\Debug\ProblemaSeccion2.exe
+C:\ASP Net Core\ProblemaSeccion2\ProblemaSeccion2\obj\Debug\ProblemaSeccion2.pdb

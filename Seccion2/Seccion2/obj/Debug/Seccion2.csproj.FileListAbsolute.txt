@@ -1,0 +1,8 @@
+C:\ASP Net Core\Seccion2\Seccion2\bin\Debug\Seccion2.exe.config
+C:\ASP Net Core\Seccion2\Seccion2\bin\Debug\Seccion2.exe
+C:\ASP Net Core\Seccion2\Seccion2\bin\Debug\Seccion2.pdb
+C:\ASP Net Core\Seccion2\Seccion2\obj\Debug\Seccion2.csproj.AssemblyReference.cache
+C:\ASP Net Core\Seccion2\Seccion2\obj\Debug\Seccion2.csproj.SuggestedBindingRedirects.cache
+C:\ASP Net Core\Seccion2\Seccion2\obj\Debug\Seccion2.csproj.CoreCompileInputs.cache
+C:\ASP Net Core\Seccion2\Seccion2\obj\Debug\Seccion2.exe
+C:\ASP Net Core\Seccion2\Seccion2\obj\Debug\Seccion2.pdb

@@ -1,0 +1,8 @@
+C:\ASP Net Core\InstruccionIteracionAnidada\InstruccionIteracionAnidada\obj\Debug\InstruccionIteracionAnidada.csproj.AssemblyReference.cache
+C:\ASP Net Core\InstruccionIteracionAnidada\InstruccionIteracionAnidada\obj\Debug\InstruccionIteracionAnidada.csproj.SuggestedBindingRedirects.cache
+C:\ASP Net Core\InstruccionIteracionAnidada\InstruccionIteracionAnidada\obj\Debug\InstruccionIteracionAnidada.csproj.CoreCompileInputs.cache
+C:\ASP Net Core\InstruccionIteracionAnidada\InstruccionIteracionAnidada\bin\Debug\InstruccionIteracionAnidada.exe.config
+C:\ASP Net Core\InstruccionIteracionAnidada\InstruccionIteracionAnidada\bin\Debug\InstruccionIteracionAnidada.exe
+C:\ASP Net Core\InstruccionIteracionAnidada\InstruccionIteracionAnidada\bin\Debug\InstruccionIteracionAnidada.pdb
+C:\ASP Net Core\InstruccionIteracionAnidada\InstruccionIteracionAnidada\obj\Debug\InstruccionIteracionAnidada.exe
+C:\ASP Net Core\InstruccionIteracionAnidada\InstruccionIteracionAnidada\obj\Debug\InstruccionIteracionAnidada.pdb

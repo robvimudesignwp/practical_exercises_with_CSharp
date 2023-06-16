@@ -1,0 +1,8 @@
+C:\ASP Net Core\Instruccion_Iteracion_For\Instruccion_Iteracion_For\bin\Debug\Instruccion_Iteracion_For.exe.config
+C:\ASP Net Core\Instruccion_Iteracion_For\Instruccion_Iteracion_For\bin\Debug\Instruccion_Iteracion_For.exe
+C:\ASP Net Core\Instruccion_Iteracion_For\Instruccion_Iteracion_For\bin\Debug\Instruccion_Iteracion_For.pdb
+C:\ASP Net Core\Instruccion_Iteracion_For\Instruccion_Iteracion_For\obj\Debug\Instruccion_Iteracion_For.csproj.AssemblyReference.cache
+C:\ASP Net Core\Instruccion_Iteracion_For\Instruccion_Iteracion_For\obj\Debug\Instruccion_Iteracion_For.csproj.SuggestedBindingRedirects.cache
+C:\ASP Net Core\Instruccion_Iteracion_For\Instruccion_Iteracion_For\obj\Debug\Instruccion_Iteracion_For.csproj.CoreCompileInputs.cache
+C:\ASP Net Core\Instruccion_Iteracion_For\Instruccion_Iteracion_For\obj\Debug\Instruccion_Iteracion_For.exe
+C:\ASP Net Core\Instruccion_Iteracion_For\Instruccion_Iteracion_For\obj\Debug\Instruccion_Iteracion_For.pdb

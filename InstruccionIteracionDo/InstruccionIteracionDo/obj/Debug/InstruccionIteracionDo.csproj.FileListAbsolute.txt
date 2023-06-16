@@ -1,0 +1,8 @@
+C:\ASP Net Core\InstruccionIteracionDo\InstruccionIteracionDo\bin\Debug\InstruccionIteracionDo.exe.config
+C:\ASP Net Core\InstruccionIteracionDo\InstruccionIteracionDo\bin\Debug\InstruccionIteracionDo.exe
+C:\ASP Net Core\InstruccionIteracionDo\InstruccionIteracionDo\bin\Debug\InstruccionIteracionDo.pdb
+C:\ASP Net Core\InstruccionIteracionDo\InstruccionIteracionDo\obj\Debug\InstruccionIteracionDo.csproj.AssemblyReference.cache
+C:\ASP Net Core\InstruccionIteracionDo\InstruccionIteracionDo\obj\Debug\InstruccionIteracionDo.csproj.SuggestedBindingRedirects.cache
+C:\ASP Net Core\InstruccionIteracionDo\InstruccionIteracionDo\obj\Debug\InstruccionIteracionDo.csproj.CoreCompileInputs.cache
+C:\ASP Net Core\InstruccionIteracionDo\InstruccionIteracionDo\obj\Debug\InstruccionIteracionDo.exe
+C:\ASP Net Core\InstruccionIteracionDo\InstruccionIteracionDo\obj\Debug\InstruccionIteracionDo.pdb

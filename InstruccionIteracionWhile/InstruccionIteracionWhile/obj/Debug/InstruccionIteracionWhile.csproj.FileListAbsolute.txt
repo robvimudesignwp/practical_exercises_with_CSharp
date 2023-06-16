@@ -1,0 +1,8 @@
+C:\ASP Net Core\InstruccionIteracionWhile\InstruccionIteracionWhile\bin\Debug\InstruccionIteracionWhile.exe.config
+C:\ASP Net Core\InstruccionIteracionWhile\InstruccionIteracionWhile\bin\Debug\InstruccionIteracionWhile.exe
+C:\ASP Net Core\InstruccionIteracionWhile\InstruccionIteracionWhile\bin\Debug\InstruccionIteracionWhile.pdb
+C:\ASP Net Core\InstruccionIteracionWhile\InstruccionIteracionWhile\obj\Debug\InstruccionIteracionWhile.csproj.AssemblyReference.cache
+C:\ASP Net Core\InstruccionIteracionWhile\InstruccionIteracionWhile\obj\Debug\InstruccionIteracionWhile.csproj.SuggestedBindingRedirects.cache
+C:\ASP Net Core\InstruccionIteracionWhile\InstruccionIteracionWhile\obj\Debug\InstruccionIteracionWhile.csproj.CoreCompileInputs.cache
+C:\ASP Net Core\InstruccionIteracionWhile\InstruccionIteracionWhile\obj\Debug\InstruccionIteracionWhile.exe
+C:\ASP Net Core\InstruccionIteracionWhile\InstruccionIteracionWhile\obj\Debug\InstruccionIteracionWhile.pdb

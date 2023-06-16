@@ -1,0 +1,8 @@
+C:\ASP Net Core\PedirDatosUsuario\PedirDatosUsuario\bin\Debug\PedirDatosUsuario.exe.config
+C:\ASP Net Core\PedirDatosUsuario\PedirDatosUsuario\bin\Debug\PedirDatosUsuario.exe
+C:\ASP Net Core\PedirDatosUsuario\PedirDatosUsuario\bin\Debug\PedirDatosUsuario.pdb
+C:\ASP Net Core\PedirDatosUsuario\PedirDatosUsuario\obj\Debug\PedirDatosUsuario.csproj.AssemblyReference.cache
+C:\ASP Net Core\PedirDatosUsuario\PedirDatosUsuario\obj\Debug\PedirDatosUsuario.csproj.SuggestedBindingRedirects.cache
+C:\ASP Net Core\PedirDatosUsuario\PedirDatosUsuario\obj\Debug\PedirDatosUsuario.csproj.CoreCompileInputs.cache
+C:\ASP Net Core\PedirDatosUsuario\PedirDatosUsuario\obj\Debug\PedirDatosUsuario.exe
+C:\ASP Net Core\PedirDatosUsuario\PedirDatosUsuario\obj\Debug\PedirDatosUsuario.pdb

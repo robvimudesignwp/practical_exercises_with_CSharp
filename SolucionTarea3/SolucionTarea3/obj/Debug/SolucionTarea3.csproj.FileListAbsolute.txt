@@ -1,0 +1,8 @@
+C:\ASP Net Core\SolucionTarea3\SolucionTarea3\bin\Debug\SolucionTarea3.exe.config
+C:\ASP Net Core\SolucionTarea3\SolucionTarea3\bin\Debug\SolucionTarea3.exe
+C:\ASP Net Core\SolucionTarea3\SolucionTarea3\bin\Debug\SolucionTarea3.pdb
+C:\ASP Net Core\SolucionTarea3\SolucionTarea3\obj\Debug\SolucionTarea3.csproj.AssemblyReference.cache
+C:\ASP Net Core\SolucionTarea3\SolucionTarea3\obj\Debug\SolucionTarea3.csproj.SuggestedBindingRedirects.cache
+C:\ASP Net Core\SolucionTarea3\SolucionTarea3\obj\Debug\SolucionTarea3.csproj.CoreCompileInputs.cache
+C:\ASP Net Core\SolucionTarea3\SolucionTarea3\obj\Debug\SolucionTarea3.exe
+C:\ASP Net Core\SolucionTarea3\SolucionTarea3\obj\Debug\SolucionTarea3.pdb

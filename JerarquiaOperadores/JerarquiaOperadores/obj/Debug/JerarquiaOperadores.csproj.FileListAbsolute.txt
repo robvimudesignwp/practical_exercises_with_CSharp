@@ -1,0 +1,8 @@
+C:\ASP Net Core\JerarquiaOperadores\JerarquiaOperadores\bin\Debug\JerarquiaOperadores.exe.config
+C:\ASP Net Core\JerarquiaOperadores\JerarquiaOperadores\bin\Debug\JerarquiaOperadores.exe
+C:\ASP Net Core\JerarquiaOperadores\JerarquiaOperadores\bin\Debug\JerarquiaOperadores.pdb
+C:\ASP Net Core\JerarquiaOperadores\JerarquiaOperadores\obj\Debug\JerarquiaOperadores.csproj.AssemblyReference.cache
+C:\ASP Net Core\JerarquiaOperadores\JerarquiaOperadores\obj\Debug\JerarquiaOperadores.csproj.SuggestedBindingRedirects.cache
+C:\ASP Net Core\JerarquiaOperadores\JerarquiaOperadores\obj\Debug\JerarquiaOperadores.csproj.CoreCompileInputs.cache
+C:\ASP Net Core\JerarquiaOperadores\JerarquiaOperadores\obj\Debug\JerarquiaOperadores.exe
+C:\ASP Net Core\JerarquiaOperadores\JerarquiaOperadores\obj\Debug\JerarquiaOperadores.pdb

@@ -1,0 +1,8 @@
+C:\ASP Net Core\Programa_Identicador_Par_Impar\Programa_Identicador_Par_Impar\bin\Debug\Programa_Identicador_Par_Impar.exe.config
+C:\ASP Net Core\Programa_Identicador_Par_Impar\Programa_Identicador_Par_Impar\bin\Debug\Programa_Identicador_Par_Impar.exe
+C:\ASP Net Core\Programa_Identicador_Par_Impar\Programa_Identicador_Par_Impar\bin\Debug\Programa_Identicador_Par_Impar.pdb
+C:\ASP Net Core\Programa_Identicador_Par_Impar\Programa_Identicador_Par_Impar\obj\Debug\Programa_Identicador_Par_Impar.csproj.AssemblyReference.cache
+C:\ASP Net Core\Programa_Identicador_Par_Impar\Programa_Identicador_Par_Impar\obj\Debug\Programa_Identicador_Par_Impar.csproj.SuggestedBindingRedirects.cache
+C:\ASP Net Core\Programa_Identicador_Par_Impar\Programa_Identicador_Par_Impar\obj\Debug\Programa_Identicador_Par_Impar.csproj.CoreCompileInputs.cache
+C:\ASP Net Core\Programa_Identicador_Par_Impar\Programa_Identicador_Par_Impar\obj\Debug\Programa_Identicador_Par_Impar.exe
+C:\ASP Net Core\Programa_Identicador_Par_Impar\Programa_Identicador_Par_Impar\obj\Debug\Programa_Identicador_Par_Impar.pdb

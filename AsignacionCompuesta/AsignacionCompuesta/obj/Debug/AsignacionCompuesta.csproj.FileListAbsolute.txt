@@ -1,0 +1,8 @@
+C:\ASP Net Core\AsignacionCompuesta\AsignacionCompuesta\bin\Debug\AsignacionCompuesta.exe.config
+C:\ASP Net Core\AsignacionCompuesta\AsignacionCompuesta\bin\Debug\AsignacionCompuesta.exe
+C:\ASP Net Core\AsignacionCompuesta\AsignacionCompuesta\bin\Debug\AsignacionCompuesta.pdb
+C:\ASP Net Core\AsignacionCompuesta\AsignacionCompuesta\obj\Debug\AsignacionCompuesta.csproj.AssemblyReference.cache
+C:\ASP Net Core\AsignacionCompuesta\AsignacionCompuesta\obj\Debug\AsignacionCompuesta.csproj.SuggestedBindingRedirects.cache
+C:\ASP Net Core\AsignacionCompuesta\AsignacionCompuesta\obj\Debug\AsignacionCompuesta.csproj.CoreCompileInputs.cache
+C:\ASP Net Core\AsignacionCompuesta\AsignacionCompuesta\obj\Debug\AsignacionCompuesta.exe
+C:\ASP Net Core\AsignacionCompuesta\AsignacionCompuesta\obj\Debug\AsignacionCompuesta.pdb

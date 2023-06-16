@@ -1,0 +1,8 @@
+C:\ASP Net Core\Contador_For\Contador_For\bin\Debug\Contador_For.exe.config
+C:\ASP Net Core\Contador_For\Contador_For\bin\Debug\Contador_For.exe
+C:\ASP Net Core\Contador_For\Contador_For\bin\Debug\Contador_For.pdb
+C:\ASP Net Core\Contador_For\Contador_For\obj\Debug\Contador_For.csproj.AssemblyReference.cache
+C:\ASP Net Core\Contador_For\Contador_For\obj\Debug\Contador_For.csproj.SuggestedBindingRedirects.cache
+C:\ASP Net Core\Contador_For\Contador_For\obj\Debug\Contador_For.csproj.CoreCompileInputs.cache
+C:\ASP Net Core\Contador_For\Contador_For\obj\Debug\Contador_For.exe
+C:\ASP Net Core\Contador_For\Contador_For\obj\Debug\Contador_For.pdb

@@ -1,0 +1,8 @@
+C:\ASP Net Core\StringToNumeric\StringToNumeric\bin\Debug\StringToNumeric.exe.config
+C:\ASP Net Core\StringToNumeric\StringToNumeric\bin\Debug\StringToNumeric.exe
+C:\ASP Net Core\StringToNumeric\StringToNumeric\bin\Debug\StringToNumeric.pdb
+C:\ASP Net Core\StringToNumeric\StringToNumeric\obj\Debug\StringToNumeric.csproj.AssemblyReference.cache
+C:\ASP Net Core\StringToNumeric\StringToNumeric\obj\Debug\StringToNumeric.csproj.SuggestedBindingRedirects.cache
+C:\ASP Net Core\StringToNumeric\StringToNumeric\obj\Debug\StringToNumeric.csproj.CoreCompileInputs.cache
+C:\ASP Net Core\StringToNumeric\StringToNumeric\obj\Debug\StringToNumeric.exe
+C:\ASP Net Core\StringToNumeric\StringToNumeric\obj\Debug\StringToNumeric.pdb

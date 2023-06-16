@@ -1,0 +1,8 @@
+C:\ASP Net Core\OperadoresIgualdad\OperadoresIgualdad\bin\Debug\OperadoresIgualdad.exe.config
+C:\ASP Net Core\OperadoresIgualdad\OperadoresIgualdad\bin\Debug\OperadoresIgualdad.exe
+C:\ASP Net Core\OperadoresIgualdad\OperadoresIgualdad\bin\Debug\OperadoresIgualdad.pdb
+C:\ASP Net Core\OperadoresIgualdad\OperadoresIgualdad\obj\Debug\OperadoresIgualdad.csproj.AssemblyReference.cache
+C:\ASP Net Core\OperadoresIgualdad\OperadoresIgualdad\obj\Debug\OperadoresIgualdad.csproj.SuggestedBindingRedirects.cache
+C:\ASP Net Core\OperadoresIgualdad\OperadoresIgualdad\obj\Debug\OperadoresIgualdad.csproj.CoreCompileInputs.cache
+C:\ASP Net Core\OperadoresIgualdad\OperadoresIgualdad\obj\Debug\OperadoresIgualdad.exe
+C:\ASP Net Core\OperadoresIgualdad\OperadoresIgualdad\obj\Debug\OperadoresIgualdad.pdb

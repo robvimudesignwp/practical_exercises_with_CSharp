@@ -1,0 +1,8 @@
+C:\ASP Net Core\Secciones_For_Iterador\Secciones_For_Iterador\bin\Debug\Secciones_For_Iterador.exe.config
+C:\ASP Net Core\Secciones_For_Iterador\Secciones_For_Iterador\bin\Debug\Secciones_For_Iterador.exe
+C:\ASP Net Core\Secciones_For_Iterador\Secciones_For_Iterador\bin\Debug\Secciones_For_Iterador.pdb
+C:\ASP Net Core\Secciones_For_Iterador\Secciones_For_Iterador\obj\Debug\Secciones_For_Iterador.csproj.AssemblyReference.cache
+C:\ASP Net Core\Secciones_For_Iterador\Secciones_For_Iterador\obj\Debug\Secciones_For_Iterador.csproj.SuggestedBindingRedirects.cache
+C:\ASP Net Core\Secciones_For_Iterador\Secciones_For_Iterador\obj\Debug\Secciones_For_Iterador.csproj.CoreCompileInputs.cache
+C:\ASP Net Core\Secciones_For_Iterador\Secciones_For_Iterador\obj\Debug\Secciones_For_Iterador.exe
+C:\ASP Net Core\Secciones_For_Iterador\Secciones_For_Iterador\obj\Debug\Secciones_For_Iterador.pdb

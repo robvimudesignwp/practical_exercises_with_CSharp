@@ -1,0 +1,8 @@
+C:\ASP Net Core\OperadoresComparacion\OperadoresComparacion\bin\Debug\OperadoresComparacion.exe.config
+C:\ASP Net Core\OperadoresComparacion\OperadoresComparacion\bin\Debug\OperadoresComparacion.exe
+C:\ASP Net Core\OperadoresComparacion\OperadoresComparacion\bin\Debug\OperadoresComparacion.pdb
+C:\ASP Net Core\OperadoresComparacion\OperadoresComparacion\obj\Debug\OperadoresComparacion.csproj.AssemblyReference.cache
+C:\ASP Net Core\OperadoresComparacion\OperadoresComparacion\obj\Debug\OperadoresComparacion.csproj.SuggestedBindingRedirects.cache
+C:\ASP Net Core\OperadoresComparacion\OperadoresComparacion\obj\Debug\OperadoresComparacion.csproj.CoreCompileInputs.cache
+C:\ASP Net Core\OperadoresComparacion\OperadoresComparacion\obj\Debug\OperadoresComparacion.exe
+C:\ASP Net Core\OperadoresComparacion\OperadoresComparacion\obj\Debug\OperadoresComparacion.pdb

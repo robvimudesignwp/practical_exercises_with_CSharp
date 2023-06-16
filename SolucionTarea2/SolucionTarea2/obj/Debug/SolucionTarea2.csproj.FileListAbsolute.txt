@@ -1,0 +1,8 @@
+C:\ASP Net Core\SolucionTarea2\SolucionTarea2\bin\Debug\SolucionTarea2.exe.config
+C:\ASP Net Core\SolucionTarea2\SolucionTarea2\bin\Debug\SolucionTarea2.exe
+C:\ASP Net Core\SolucionTarea2\SolucionTarea2\bin\Debug\SolucionTarea2.pdb
+C:\ASP Net Core\SolucionTarea2\SolucionTarea2\obj\Debug\SolucionTarea2.csproj.AssemblyReference.cache
+C:\ASP Net Core\SolucionTarea2\SolucionTarea2\obj\Debug\SolucionTarea2.csproj.SuggestedBindingRedirects.cache
+C:\ASP Net Core\SolucionTarea2\SolucionTarea2\obj\Debug\SolucionTarea2.csproj.CoreCompileInputs.cache
+C:\ASP Net Core\SolucionTarea2\SolucionTarea2\obj\Debug\SolucionTarea2.exe
+C:\ASP Net Core\SolucionTarea2\SolucionTarea2\obj\Debug\SolucionTarea2.pdb

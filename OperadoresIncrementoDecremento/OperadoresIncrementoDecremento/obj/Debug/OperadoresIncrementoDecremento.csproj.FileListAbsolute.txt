@@ -1,0 +1,8 @@
+C:\ASP Net Core\OperadoresIncrementoDecremento\OperadoresIncrementoDecremento\bin\Debug\OperadoresIncrementoDecremento.exe.config
+C:\ASP Net Core\OperadoresIncrementoDecremento\OperadoresIncrementoDecremento\bin\Debug\OperadoresIncrementoDecremento.exe
+C:\ASP Net Core\OperadoresIncrementoDecremento\OperadoresIncrementoDecremento\bin\Debug\OperadoresIncrementoDecremento.pdb
+C:\ASP Net Core\OperadoresIncrementoDecremento\OperadoresIncrementoDecremento\obj\Debug\OperadoresIncrementoDecremento.csproj.AssemblyReference.cache
+C:\ASP Net Core\OperadoresIncrementoDecremento\OperadoresIncrementoDecremento\obj\Debug\OperadoresIncrementoDecremento.csproj.SuggestedBindingRedirects.cache
+C:\ASP Net Core\OperadoresIncrementoDecremento\OperadoresIncrementoDecremento\obj\Debug\OperadoresIncrementoDecremento.csproj.CoreCompileInputs.cache
+C:\ASP Net Core\OperadoresIncrementoDecremento\OperadoresIncrementoDecremento\obj\Debug\OperadoresIncrementoDecremento.exe
+C:\ASP Net Core\OperadoresIncrementoDecremento\OperadoresIncrementoDecremento\obj\Debug\OperadoresIncrementoDecremento.pdb

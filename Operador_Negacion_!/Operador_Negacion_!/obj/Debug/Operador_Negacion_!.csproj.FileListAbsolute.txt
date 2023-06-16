@@ -1,0 +1,8 @@
+C:\ASP Net Core\Operador_Negacion_!\Operador_Negacion_!\bin\Debug\Operador_Negacion_!.exe.config
+C:\ASP Net Core\Operador_Negacion_!\Operador_Negacion_!\bin\Debug\Operador_Negacion_!.exe
+C:\ASP Net Core\Operador_Negacion_!\Operador_Negacion_!\bin\Debug\Operador_Negacion_!.pdb
+C:\ASP Net Core\Operador_Negacion_!\Operador_Negacion_!\obj\Debug\Operador_Negacion_!.csproj.AssemblyReference.cache
+C:\ASP Net Core\Operador_Negacion_!\Operador_Negacion_!\obj\Debug\Operador_Negacion_!.csproj.SuggestedBindingRedirects.cache
+C:\ASP Net Core\Operador_Negacion_!\Operador_Negacion_!\obj\Debug\Operador_Negacion_!.csproj.CoreCompileInputs.cache
+C:\ASP Net Core\Operador_Negacion_!\Operador_Negacion_!\obj\Debug\Operador_Negacion_!.exe
+C:\ASP Net Core\Operador_Negacion_!\Operador_Negacion_!\obj\Debug\Operador_Negacion_!.pdb

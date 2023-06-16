@@ -1,0 +1,8 @@
+C:\ASP Net Core\Operador_AND_&&\Operador_AND_&&\bin\Debug\Operador_AND_&&.exe.config
+C:\ASP Net Core\Operador_AND_&&\Operador_AND_&&\bin\Debug\Operador_AND_&&.exe
+C:\ASP Net Core\Operador_AND_&&\Operador_AND_&&\bin\Debug\Operador_AND_&&.pdb
+C:\ASP Net Core\Operador_AND_&&\Operador_AND_&&\obj\Debug\Operador_AND_&&.csproj.AssemblyReference.cache
+C:\ASP Net Core\Operador_AND_&&\Operador_AND_&&\obj\Debug\Operador_AND_&&.csproj.SuggestedBindingRedirects.cache
+C:\ASP Net Core\Operador_AND_&&\Operador_AND_&&\obj\Debug\Operador_AND_&&.csproj.CoreCompileInputs.cache
+C:\ASP Net Core\Operador_AND_&&\Operador_AND_&&\obj\Debug\Operador_AND_&&.exe
+C:\ASP Net Core\Operador_AND_&&\Operador_AND_&&\obj\Debug\Operador_AND_&&.pdb

@@ -1,0 +1,8 @@
+C:\ASP Net Core\Reemplazando_If_Else_por_Switch\Reemplazando_If_Else_por_Switch\bin\Debug\Reemplazando_If_Else_por_Switch.exe.config
+C:\ASP Net Core\Reemplazando_If_Else_por_Switch\Reemplazando_If_Else_por_Switch\bin\Debug\Reemplazando_If_Else_por_Switch.exe
+C:\ASP Net Core\Reemplazando_If_Else_por_Switch\Reemplazando_If_Else_por_Switch\bin\Debug\Reemplazando_If_Else_por_Switch.pdb
+C:\ASP Net Core\Reemplazando_If_Else_por_Switch\Reemplazando_If_Else_por_Switch\obj\Debug\Reemplazando_If_Else_por_Switch.csproj.AssemblyReference.cache
+C:\ASP Net Core\Reemplazando_If_Else_por_Switch\Reemplazando_If_Else_por_Switch\obj\Debug\Reemplazando_If_Else_por_Switch.csproj.SuggestedBindingRedirects.cache
+C:\ASP Net Core\Reemplazando_If_Else_por_Switch\Reemplazando_If_Else_por_Switch\obj\Debug\Reemplazando_If_Else_por_Switch.csproj.CoreCompileInputs.cache
+C:\ASP Net Core\Reemplazando_If_Else_por_Switch\Reemplazando_If_Else_por_Switch\obj\Debug\Reemplazando_If_Else_por_Switch.exe
+C:\ASP Net Core\Reemplazando_If_Else_por_Switch\Reemplazando_If_Else_por_Switch\obj\Debug\Reemplazando_If_Else_por_Switch.pdb

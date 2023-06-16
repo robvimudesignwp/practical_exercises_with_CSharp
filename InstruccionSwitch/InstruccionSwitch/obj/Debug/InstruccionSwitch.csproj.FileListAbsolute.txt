@@ -1,0 +1,8 @@
+C:\ASP Net Core\InstruccionSwitch\InstruccionSwitch\bin\Debug\InstruccionSwitch.exe.config
+C:\ASP Net Core\InstruccionSwitch\InstruccionSwitch\bin\Debug\InstruccionSwitch.exe
+C:\ASP Net Core\InstruccionSwitch\InstruccionSwitch\bin\Debug\InstruccionSwitch.pdb
+C:\ASP Net Core\InstruccionSwitch\InstruccionSwitch\obj\Debug\InstruccionSwitch.csproj.AssemblyReference.cache
+C:\ASP Net Core\InstruccionSwitch\InstruccionSwitch\obj\Debug\InstruccionSwitch.csproj.SuggestedBindingRedirects.cache
+C:\ASP Net Core\InstruccionSwitch\InstruccionSwitch\obj\Debug\InstruccionSwitch.csproj.CoreCompileInputs.cache
+C:\ASP Net Core\InstruccionSwitch\InstruccionSwitch\obj\Debug\InstruccionSwitch.exe
+C:\ASP Net Core\InstruccionSwitch\InstruccionSwitch\obj\Debug\InstruccionSwitch.pdb

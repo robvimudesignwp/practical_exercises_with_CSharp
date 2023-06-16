@@ -1,0 +1,8 @@
+C:\ASP Net Core\Constantes\Constantes\bin\Debug\Constantes.exe.config
+C:\ASP Net Core\Constantes\Constantes\bin\Debug\Constantes.exe
+C:\ASP Net Core\Constantes\Constantes\bin\Debug\Constantes.pdb
+C:\ASP Net Core\Constantes\Constantes\obj\Debug\Constantes.csproj.AssemblyReference.cache
+C:\ASP Net Core\Constantes\Constantes\obj\Debug\Constantes.csproj.SuggestedBindingRedirects.cache
+C:\ASP Net Core\Constantes\Constantes\obj\Debug\Constantes.csproj.CoreCompileInputs.cache
+C:\ASP Net Core\Constantes\Constantes\obj\Debug\Constantes.exe
+C:\ASP Net Core\Constantes\Constantes\obj\Debug\Constantes.pdb

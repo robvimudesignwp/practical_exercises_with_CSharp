@@ -1,0 +1,8 @@
+C:\ASP Net Core\Secciones_For_Condicion\Secciones_For_Condicion\bin\Debug\Secciones_For_Condicion.exe.config
+C:\ASP Net Core\Secciones_For_Condicion\Secciones_For_Condicion\bin\Debug\Secciones_For_Condicion.exe
+C:\ASP Net Core\Secciones_For_Condicion\Secciones_For_Condicion\bin\Debug\Secciones_For_Condicion.pdb
+C:\ASP Net Core\Secciones_For_Condicion\Secciones_For_Condicion\obj\Debug\Secciones_For_Condicion.csproj.AssemblyReference.cache
+C:\ASP Net Core\Secciones_For_Condicion\Secciones_For_Condicion\obj\Debug\Secciones_For_Condicion.csproj.SuggestedBindingRedirects.cache
+C:\ASP Net Core\Secciones_For_Condicion\Secciones_For_Condicion\obj\Debug\Secciones_For_Condicion.csproj.CoreCompileInputs.cache
+C:\ASP Net Core\Secciones_For_Condicion\Secciones_For_Condicion\obj\Debug\Secciones_For_Condicion.exe
+C:\ASP Net Core\Secciones_For_Condicion\Secciones_For_Condicion\obj\Debug\Secciones_For_Condicion.pdb

@@ -1,0 +1,8 @@
+C:\ASP Net Core\SentenciasIfAnidadasEscalera\SentenciasIfAnidadasEscalera\bin\Debug\SentenciasIfAnidadasEscalera.exe.config
+C:\ASP Net Core\SentenciasIfAnidadasEscalera\SentenciasIfAnidadasEscalera\bin\Debug\SentenciasIfAnidadasEscalera.exe
+C:\ASP Net Core\SentenciasIfAnidadasEscalera\SentenciasIfAnidadasEscalera\bin\Debug\SentenciasIfAnidadasEscalera.pdb
+C:\ASP Net Core\SentenciasIfAnidadasEscalera\SentenciasIfAnidadasEscalera\obj\Debug\SentenciasIfAnidadasEscalera.csproj.AssemblyReference.cache
+C:\ASP Net Core\SentenciasIfAnidadasEscalera\SentenciasIfAnidadasEscalera\obj\Debug\SentenciasIfAnidadasEscalera.csproj.SuggestedBindingRedirects.cache
+C:\ASP Net Core\SentenciasIfAnidadasEscalera\SentenciasIfAnidadasEscalera\obj\Debug\SentenciasIfAnidadasEscalera.csproj.CoreCompileInputs.cache
+C:\ASP Net Core\SentenciasIfAnidadasEscalera\SentenciasIfAnidadasEscalera\obj\Debug\SentenciasIfAnidadasEscalera.exe
+C:\ASP Net Core\SentenciasIfAnidadasEscalera\SentenciasIfAnidadasEscalera\obj\Debug\SentenciasIfAnidadasEscalera.pdb
